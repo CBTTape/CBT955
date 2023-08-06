@@ -1,0 +1,27 @@
+2023-08-06 08:40:41.815021 - Initialized conversion of CBT955
+2023-08-06 08:40:42.043658 - Received CBT.V505.FILE955.PDS from FILE955.XMI 
+2023-08-06 08:40:42.046001 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE955.PDS, moved to PDS/$$$#DATE
+2023-08-06 08:40:42.047023 - Found $$$DOC.txt (text/plain) in CBT.V505.FILE955.PDS, moved to PDS/$$$DOC
+2023-08-06 08:40:42.048302 - Found $$FIXES.txt (text/plain) in CBT.V505.FILE955.PDS, moved to PDS/$$FIXES
+2023-08-06 08:40:42.049392 - Found $$INDEX.txt (text/plain) in CBT.V505.FILE955.PDS, moved to PDS/$$INDEX
+2023-08-06 08:40:42.050290 - Found $GPL.txt (text/plain) in CBT.V505.FILE955.PDS, moved to PDS/$GPL
+2023-08-06 08:40:42.051343 - Found $INSTALL.txt (text/plain) in CBT.V505.FILE955.PDS, moved to PDS/$INSTALL
+2023-08-06 08:40:42.052192 - Found $RELEASE.txt (text/plain) in CBT.V505.FILE955.PDS, moved to PDS/$RELEASE
+2023-08-06 08:40:42.053061 - Found @FILE955.txt (text/plain) in CBT.V505.FILE955.PDS, moved to PDS/@FILE955
+2023-08-06 08:40:42.054121 - Found ASM.jcl (text/plain) in CBT.V505.FILE955.PDS, moved to PDS/ASM
+2023-08-06 08:40:42.054977 - Found ASM$.txt (text/plain) in CBT.V505.FILE955.PDS, moved to PDS/ASM$
+2023-08-06 08:40:42.055913 - Found IPADDR.txt (text/plain) in CBT.V505.FILE955.PDS, moved to PDS/IPADDR
+2023-08-06 08:40:42.056734 - Found JULIAN.txt (text/plain) in CBT.V505.FILE955.PDS, moved to PDS/JULIAN
+2023-08-06 08:40:42.057668 - Found PARMS.txt (text/plain) in CBT.V505.FILE955.PDS, moved to PDS/PARMS
+2023-08-06 08:40:42.058520 - Found RACFUSR.txt (text/plain) in CBT.V505.FILE955.PDS, moved to PDS/RACFUSR
+2023-08-06 08:40:42.059327 - Found RECON.txt (text/plain) in CBT.V505.FILE955.PDS, moved to PDS/RECON
+2023-08-06 08:40:42.060148 - Found RLCLOS.txt (text/plain) in CBT.V505.FILE955.PDS, moved to PDS/RLCLOS
+2023-08-06 08:40:42.061033 - Found RLCOMM.txt (text/plain) in CBT.V505.FILE955.PDS, moved to PDS/RLCOMM
+2023-08-06 08:40:42.061931 - Found RLINCL.txt (text/plain) in CBT.V505.FILE955.PDS, moved to PDS/RLINCL
+2023-08-06 08:40:42.062898 - Found RLINIT1.txt (text/plain) in CBT.V505.FILE955.PDS, moved to PDS/RLINIT1
+2023-08-06 08:40:42.063876 - Found RLINIT2.txt (text/plain) in CBT.V505.FILE955.PDS, moved to PDS/RLINIT2
+2023-08-06 08:40:42.064811 - Found RLWRITE.txt (text/plain) in CBT.V505.FILE955.PDS, moved to PDS/RLWRITE
+2023-08-06 08:40:42.065721 - Found RMTLOG.txt (text/plain) in CBT.V505.FILE955.PDS, moved to PDS/RMTLOG
+2023-08-06 08:40:42.066556 - Found RMTLOG$.txt (text/plain) in CBT.V505.FILE955.PDS, moved to PDS/RMTLOG$
+2023-08-06 08:40:42.067499 - Found RMTLOG00.txt (text/plain) in CBT.V505.FILE955.PDS, moved to PDS/RMTLOG00
+2023-08-06 08:40:42.068384 - Found STR.txt (text/plain) in CBT.V505.FILE955.PDS, moved to PDS/STR
