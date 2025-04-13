@@ -1,0 +1,26 @@
+2025-04-14 00:27:48.792002 - Received CBT.V508.FILE955.PDS from FILE955.XMI 
+2025-04-14 00:27:48.793974 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE955.PDS, moved to PDS/$$$#DATE
+2025-04-14 00:27:48.794098 - Found $$$DOC.txt (text/plain) in CBT.V508.FILE955.PDS, moved to PDS/$$$DOC
+2025-04-14 00:27:48.794220 - Found $$FIXES.txt (text/plain) in CBT.V508.FILE955.PDS, moved to PDS/$$FIXES
+2025-04-14 00:27:48.794299 - Found $$INDEX.txt (text/plain) in CBT.V508.FILE955.PDS, moved to PDS/$$INDEX
+2025-04-14 00:27:48.794410 - Found $GPL.txt (text/plain) in CBT.V508.FILE955.PDS, moved to PDS/$GPL
+2025-04-14 00:27:48.794497 - Found $INSTALL.txt (text/plain) in CBT.V508.FILE955.PDS, moved to PDS/$INSTALL
+2025-04-14 00:27:48.794579 - Found $RELEASE.txt (text/plain) in CBT.V508.FILE955.PDS, moved to PDS/$RELEASE
+2025-04-14 00:27:48.794662 - Found @FILE955.txt (text/plain) in CBT.V508.FILE955.PDS, moved to PDS/@FILE955
+2025-04-14 00:27:48.794746 - Found ASM.jcl (text/plain) in CBT.V508.FILE955.PDS, moved to PDS/ASM
+2025-04-14 00:27:48.794827 - Found ASM$.txt (text/plain) in CBT.V508.FILE955.PDS, moved to PDS/ASM$
+2025-04-14 00:27:48.794913 - Found IPADDR.txt (text/plain) in CBT.V508.FILE955.PDS, moved to PDS/IPADDR
+2025-04-14 00:27:48.795003 - Found JULIAN.txt (text/plain) in CBT.V508.FILE955.PDS, moved to PDS/JULIAN
+2025-04-14 00:27:48.795081 - Found PARMS.txt (text/plain) in CBT.V508.FILE955.PDS, moved to PDS/PARMS
+2025-04-14 00:27:48.795162 - Found RACFUSR.txt (text/plain) in CBT.V508.FILE955.PDS, moved to PDS/RACFUSR
+2025-04-14 00:27:48.795246 - Found RECON.txt (text/plain) in CBT.V508.FILE955.PDS, moved to PDS/RECON
+2025-04-14 00:27:48.795333 - Found RLCLOS.txt (text/plain) in CBT.V508.FILE955.PDS, moved to PDS/RLCLOS
+2025-04-14 00:27:48.795432 - Found RLCOMM.txt (text/plain) in CBT.V508.FILE955.PDS, moved to PDS/RLCOMM
+2025-04-14 00:27:48.795523 - Found RLINCL.txt (text/plain) in CBT.V508.FILE955.PDS, moved to PDS/RLINCL
+2025-04-14 00:27:48.795629 - Found RLINIT1.txt (text/plain) in CBT.V508.FILE955.PDS, moved to PDS/RLINIT1
+2025-04-14 00:27:48.795725 - Found RLINIT2.txt (text/plain) in CBT.V508.FILE955.PDS, moved to PDS/RLINIT2
+2025-04-14 00:27:48.795828 - Found RLWRITE.txt (text/plain) in CBT.V508.FILE955.PDS, moved to PDS/RLWRITE
+2025-04-14 00:27:48.795953 - Found RMTLOG.txt (text/plain) in CBT.V508.FILE955.PDS, moved to PDS/RMTLOG
+2025-04-14 00:27:48.796059 - Found RMTLOG$.txt (text/plain) in CBT.V508.FILE955.PDS, moved to PDS/RMTLOG$
+2025-04-14 00:27:48.796144 - Found RMTLOG00.txt (text/plain) in CBT.V508.FILE955.PDS, moved to PDS/RMTLOG00
+2025-04-14 00:27:48.796228 - Found STR.txt (text/plain) in CBT.V508.FILE955.PDS, moved to PDS/STR
